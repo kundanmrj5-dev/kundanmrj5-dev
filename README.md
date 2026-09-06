@@ -15,14 +15,38 @@ I build data-driven applications that turn real-world problems into useful, acce
 
 I am currently focused on deploying machine-learning applications, improving model evaluation workflows, and strengthening my data analytics foundations with Python and SQL.
 
-## Technical focus
+## Tech Stack
 
-| Area | Tools |
-| --- | --- |
-| Machine learning | Python, scikit-learn, TensorFlow, PyTorch, XGBoost |
-| Data & analytics | SQL, Pandas, NumPy, Matplotlib, Seaborn |
-| Applications | Streamlit, OpenCV, MediaPipe, Pygame |
-| Development | Git, GitHub, Jupyter, VS Code, Vercel |
+### Machine Learning and Modeling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch&theme=dark" alt="Python, scikit-learn, TensorFlow, and PyTorch" />
+  <img src="https://img.shields.io/badge/XGBoost-1677FF?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
+</p>
+
+### Data Analysis and Visualization
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Python and MySQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+### Computer Vision and Interactive Applications
+
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MediaPipe-0075C9?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/Pygame-2C2D72?style=for-the-badge&logo=python&logoColor=white" alt="Pygame" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and VS Code" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
 
 ## Selected projects
 
