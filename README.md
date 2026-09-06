@@ -1,111 +1,53 @@
 <div align="center">
 
-# Hi, I'm Kundan Pandey 👋
+# Kundan Pandey
 
-### Aspiring AI/ML Engineer | Data Science Intern | Final Year CSE Student
+**AI/ML and Data Science | Final-Year Computer Science Student**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kundan%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundan-pandey)
-[![GitHub](https://img.shields.io/badge/GitHub-@kundanmrj5--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kundanmrj5-dev)
+[![Email](https://img.shields.io/badge/Email-kundanmrj5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundanmrj5@gmail.com)
 
 </div>
 
----
+## About
 
-## 📊 GitHub Analytics
+I build data-driven applications that turn real-world problems into useful, accessible tools. My work spans machine learning, data analytics, computer vision, and interactive dashboards, with an emphasis on clear data, dependable models, and practical user experiences.
 
-<div align="center">
+I am currently focused on deploying machine-learning applications, improving model evaluation workflows, and strengthening my data analytics foundations with Python and SQL.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kundanmrj5-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Kundan's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundanmrj5-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+## Technical focus
 
-</div>
+| Area | Tools |
+| --- | --- |
+| Machine learning | Python, scikit-learn, TensorFlow, PyTorch, XGBoost |
+| Data & analytics | SQL, Pandas, NumPy, Matplotlib, Seaborn |
+| Applications | Streamlit, OpenCV, MediaPipe, Pygame |
+| Development | Git, GitHub, Jupyter, VS Code, Vercel |
 
----
+## Selected projects
 
-<div align="center">
-
-### 🤖 Building practical AI solutions | 📊 Turning data into insights | 🚀 Deploying ML applications
-
-</div>
-
-## 🧠 About Me
-
-I am a final-year Computer Science and Engineering student and Data Science Intern. I build end-to-end, data-driven applications with Python, SQL, machine learning, and interactive dashboards. My focus is on solving practical problems through clean data, reliable models, and useful user experiences.
-
-## 🎯 Current Role and Focus
-
-**Aspiring AI/ML Engineer and Data Science Intern** focused on building machine-learning models, data analytics pipelines, interactive dashboards, and computer-vision applications.
-
-## 🚀 AI and ML Engineering Stack
-
-### 🧠 Machine Learning and Deep Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="Python TensorFlow PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit learn" />
-  <img src="https://img.shields.io/badge/XGBoost-1677FF?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
-</p>
-
-### 📊 Data Analysis and Visualization
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
-
-### 🗄️ Core Programming and Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Python MySQL" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
-
-### 👁️ Computer Vision and Interactive AI
-
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/MediaPipe-0075C9?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/Pygame-2C2D72?style=for-the-badge&logo=python&logoColor=white" alt="Pygame" />
-</p>
-
-### 🛠️ Development and Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
+| Project | Summary | Stack |
 | --- | --- | --- |
-| **Customer Churn Analytics** | End-to-end churn prediction system with a dashboard for retention insights. | SQL, XGBoost, Streamlit |
-| **Credit Card Approval Prediction** | Tuned Logistic Regression pipeline for credit approval prediction. | Python, Scikit-learn, GridSearchCV |
-| **Wine Quality Prediction** | Benchmarking ML classifiers to predict wine quality from data. | Python, Scikit-learn, Matplotlib |
-| **AI Based Fitness Tracker** | Activity-data analysis for personalized workout and progress insights. | Python, Pandas, NumPy |
-| **[Gesture Hill Climb](https://github.com/kundanmrj5-dev/gesture-hill-climb-)** | Webcam-controlled driving game using real-time hand gestures. | Python, OpenCV, MediaPipe, Pygame |
+| [Customer Churn Analytics](https://github.com/kundanmrj5-dev/customer-churn-analytics-) | End-to-end churn prediction and analytics dashboard for identifying customer-retention opportunities. | SQL, XGBoost, Streamlit |
+| [Credit Card Approval Prediction](https://github.com/kundanmrj5-dev/credit-card-approval-ml) | Credit-approval prediction app built with a tuned logistic-regression pipeline. | Python, scikit-learn, Streamlit |
+| [Wine Quality Prediction](https://github.com/kundanmrj5-dev/Wine-Quality-Prediction-Model) | Web application that predicts wine quality using a random-forest model. | Python, scikit-learn |
+| [AI Fitness Coach](https://github.com/kundanmrj5-dev/AI-Fitness-Coach) | Fitness and wellness platform with personalized guidance, progress tracking, and an AI coach. | JavaScript |
+| [Gesture Hill Climb](https://github.com/kundanmrj5-dev/gesture-hill-climb-) | Webcam-controlled driving game using real-time hand-gesture recognition. | Python, OpenCV, MediaPipe, Pygame |
 
-## 🌱 Currently Learning and Building
+## Learning now
 
-- Deployable machine learning applications and dashboards
-- Model evaluation, feature engineering, and data analytics
+- Deploying machine-learning applications and analytics dashboards
+- Model evaluation, feature engineering, and data analysis
 - Practical AI solutions with Python and SQL
 
-## 📜 Certifications
+## Credentials
 
 - Machine Learning with Python - IBM
 - SQL and Relational Databases - IBM
 - TCS iON Career Edge - Interview and Job Readiness Program
 
-<div align="center">
+## Connect
 
-### Let's connect and build something useful.
+I'm open to internships, junior AI/ML and data roles, and collaboration on useful data products.
 
-<a href="https://github.com/kundanmrj5-dev"><img src="https://img.shields.io/badge/GitHub-kundanmrj5--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/kundan-pandey"><img src="https://img.shields.io/badge/LinkedIn-Kundan%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-</div>
+[Connect on LinkedIn](https://www.linkedin.com/in/kundan-pandey) | [Email me](mailto:kundanmrj5@gmail.com)
