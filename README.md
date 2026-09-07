@@ -4,6 +4,8 @@
 
 **AI/ML and Data Science | Final-Year Computer Science Student**
 
+🔗 **Portfolio:** [kundan-portfolio-ten.vercel.app](https://kundan-portfolio-ten.vercel.app/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kundan%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundan-pandey)
 [![Email](https://img.shields.io/badge/Email-kundanmrj5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundanmrj5@gmail.com)
 </div>
