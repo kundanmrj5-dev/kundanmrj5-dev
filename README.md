@@ -1,5 +1,5 @@
 <div align="center">
-🔗 **Portfolio:** [kundan-portfolio-ten.vercel.app](https://kundan-portfolio-ten.vercel.app/)
+
 # Kundan Pandey
 
 **AI/ML and Data Science | Final-Year Computer Science Student**
